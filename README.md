@@ -95,9 +95,3 @@ printf("%d ",matriz[i][j]);
 - **Performance:** O sistema deve executar operações de forma eficiente, sem atrasos perceptíveis.
 - **Documentação:** O código deve ser bem documentado, com comentários claros sobre a função de cada parte do código.
 - **Manutenibilidade:** O código deve ser organizado e fácil de entender, facilitando futuras manutenções e expansões.
-
----
-
-Boa sorte no desenvolvimento deste desafio! Aproveite para aprimorar suas habilidades em vetores e matrizes enquanto progride pelos níveis.
-
-Equipe de Ensino - MateCheck
